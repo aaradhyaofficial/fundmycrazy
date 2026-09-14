@@ -7,19 +7,25 @@
 The Civic Innovation & Maker Institute is a hybrid ecosystem designed to eradicate educational inequality and mitigate e-waste through community-driven technological empowerment. By fusing stationary micro-factories with high-tech mobile education, we are building a self-sustaining economic and educational engine capable of radical neighborhood revitalization. 
 
 **Pillar 1: Neighborhood Repair & Maker Guilds (The Stationary Hubs)**
+
 These permanent micro-factories serve as the operational anchor for localized hardware repair and upskilling.
+
 *   **E-Waste Transformation:** Citizens and students deposit discarded electronics, appliances, and broken municipal hardware for rehabilitation rather than landfills.
 *   **AI-Powered Diagnostics:** Apprentices utilize machine learning diagnostic interfaces to instantly isolate hardware faults, streamlining the troubleshooting process and lowering the barrier to entry for complex repairs.
 *   **On-Demand Micro-Manufacturing:** Utilizing on-site 3D printers and fabrication tools, the Guilds manufacture obsolete or missing replacement parts, returning revived technology to schools and low-income households.
 
 **Pillar 2: Mobile Community Skill-Hubs (The AI Co-Lab On Wheels)**
+
 To ensure geographic and financial barriers do not isolate learners, our mobile fleet brings the Institute directly to underserved school districts and community centers.
+
 *   **Retrofitted Electric Buses:** Zero-emission transit vehicles are entirely upcycled into off-grid, traveling laboratories.
 *   **Immersive STEM Environments:** Outfitted with VR headsets, the hubs allow students to manipulate 3D engineering models, explore virtual data environments, and experience high-level tech concepts hands-on.
 *   **Adaptive AI Tutoring Stations:** Integrated AI tutors adjust in real-time to each student's learning pace, providing personalized instruction in coding, hardware mechanics, and digital design.
 
 **The Empowerment Cycle**
+
 The Institute fundamentally shifts community members from passive technology consumers into active creators and civic leaders.
+
 *   **Apprenticeship & Economic Engine:** The "earn-while-you-learn" model provides stipends to apprentices who perform on-site maintenance for neighborhood infrastructure, keeping repair capital within the local economy.
 *   **Peer-to-Peer Mentorship:** Mobile lab students who master the curriculum graduate into paid peer-mentor roles, fostering a localized, self-replicating support network of technological literacy.
 *   **Systemic Scaling:** As apprentices gain proficiency in advanced tools (data analytics, UI/UX, and engineering), they transition into the broader tech workforce or launch local micro-enterprises, creating a continuous pipeline of vocational mastery.
