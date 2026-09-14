@@ -52,33 +52,7 @@ Apprentices earn hourly stipends, translating vocational training directly into 
 Apprentices host free weekend pop-up repair clinics in under-resourced neighborhoods.
 They fix household items for low-income families while accumulating verified field service hours.
 Every completed field repair earns accredited micro-credentials that count toward formal engineering and trade certifications.
-
-[ Residents & Municipal Bodies ]
-               │
-               ▼
-   [ 1. Intake & AI Diagnostics ]
-   • Submit broken equipment (scooters, sensors, appliances)
-   • AI diagnostic terminals scan hardware
-   • Output: Visual fault reports & step-by-step schematics
-               │
-               ▼
-    [ 2. Collaborative Repair ]
-   • Vocational Student + Master Craftsman
-   • Guided by AI-generated safety checks
-   • Output: Hands-on trade skill acquisition & restored equipment
-               │
-               ▼
-[ 3. On-Site Community Deployment (The Impact Loop) ]
-   • Apprentices form Mobile Repair Squads deployed locally
-               │
-       ┌───────┴───────┐
-       ▼               ▼
-  [ Paid Track ]     [ Volunteer Track ]
-  • B2B/Civic contracts     • Free weekend pop-up clinics
-  • On-site maintenance     • Low-income neighborhood support
-  • (Streetlights, etc.)    • Earn micro-credentials & service hours
-
-  graph TD
+graph TD
     A[Residents & Municipal Bodies Submit Equipment] --> B(1. Intake & AI Diagnostics)
     B --> |AI generates visual reports & schematics| C(2. Collaborative Repair)
     C --> |Student + Master Craftsman execute repairs| D(3. Community Deployment: The Impact Loop)
@@ -121,34 +95,6 @@ The mobile lab builds an organic talent pipeline through a peer-to-peer leadersh
 * **Peer Instruction:** Youth Vanguard members are trained to serve as assistant instructors on future bus visits, guiding younger cohorts through VR setup, CAD modeling, and 3D printing tasks.
 * **Dual-Benefit Loop:** Peer teaching deepens the mentors' technical mastery, builds leadership skills, and significantly lowers the operational staffing costs of the mobile lab fleet.
 
-  [ Maker Guild Central Hub ]
-             │
-             ▼
-[ 1. Fleet Prep & Sync (Overnight) ]
-• EV buses charge at central hub
-• AI servers sync VR modules & targeted curriculum
-             │
-             ▼
-[ 2. School Site Deployment ]
-• Arrive at rural/underserved public school
-• Deploy Indoor VR Exploration Bays
-• Deploy Outdoor 3D Fabrication Outposts
-             │
-             ▼
-[ 3. Rotational AI Learning ]
-• Student cohorts rotate through hands-on stations
-• Personalized instruction guided by interactive AI tutors
-             │
-             ▼
-[ 4. Peer-to-Peer Mentorship Pipeline ]
-• High-performing students recruited into Youth Vanguard
-             │
-             ▼
-[ Mobile Lab Volunteer Assistants ]
-• Assist on future bus routes for younger cohorts
-• Teach 3D printing & VR operation
-• Reinforce mastery & build leadership skills
-
 graph TD
     A[Maker Guild Central Hub] --> B(1. Fleet Prep & Sync - Overnight)
     B -->|Charge EV batteries & sync VR/Curriculum| C(2. School Site Deployment)
@@ -177,20 +123,6 @@ graph TD
 *   **Master Craftsmen (Ages 30+):** Veteran local tradespeople, certified technicians, and engineers providing physical oversight and mentorship.
 *   **Community Beneficiaries (All Ages):** Residents and local businesses receiving low-cost e-waste repairs and on-site civic infrastructure maintenance.
 
-[ Mobile AI STEM Labs ] 
-       (Serves Ages 10–18)
-               │   ▲
-  Inspires &   │   │ Fabricates STEM parts &
-  funnels top  │   │ maintains EV bus fleet
-  students to  │   │ 
-  apprentices  ▼   │
-     [ Neighborhood Repair Guild ]
-      (Serves Ages 16–25+)
-               │
-               ▼
-[ Community Impact (All Ages) ]
-• Low-cost e-waste repair
-• Municipal infrastructure maintenance
 
 graph TD
     A[Mobile Community Skill-Hubs] -->|Graduates transition to Apprentices| B[Neighborhood Repair Guild]
@@ -208,4 +140,34 @@ graph TD
     class B guild;
     class C impact;
 
-    
+
+ **Setting up a single Neighborhood Repair & Maker Guild Hub in an urban or semi-urban Indian location (requiring approximately 1,500–2,000 sq. ft. of workshop space) involves the following capital and operational expenditure estimates.**
+ 
+*   **Capital Expenditure (CAPEX) — One-Time Setup Costs**
+
+ **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup *₹ 6,50,000*
+ **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup₹ 8,50,000
+ **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools₹ 6,00,000
+ **Fabrication & Prototyping Tools** 2 high-speed FDM 3D printers, 1 SLA resin printer, 1 desktop CNC PCB mill, 1 CO2 laser cutter (for replacement part fabrication)₹ 10,50,000
+ **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area₹ 2,50,000
+ **Total CAPEX** ₹ 34,00,000 (₹ 34 Lakhs)
+ 
+ *   **Operational Expenditure (OPEX) — Annual (Year 1)**
+
+ **Workshop Rent** ₹40,000/month for 1,500–2,000 sq. ft. industrial/commercial space *₹ 4,80,000*
+ **Technical Core Staffing** 1 Hub Manager / Tech Lead (@ ₹45,000/mo) + 2 Master Craftsmen / Senior Technicians (@ ₹35,000/mo each) *₹ 13,80,000*
+ **Apprentice Stipend Pool** Performance-based stipends for 10 vocational apprentices taking on community repair tasks (@ ₹6,000/mo each) ₹ 7,20,000
+ **Consumables & Spare Parts** 3D printing filaments, resins, solder, wire, generic ICs, transistors, basic hardware components ₹ 4,50,000
+ **Utilities & Connectivity** High-load commercial power bills, high-speed fiber internet, water₹ 3,00,000
+ **Maintenance, Insurance & Admin** Machine maintenance, software AI cloud compute APIs, insurance, municipal permits₹ 2,70,000
+ **Total OPEX (Annual)** ₹ 36,00,000 (₹ 36 Lakhs)
+
+ *   **Total Year 1 Budget Per Guild Hub**
+ 
+ CAPEX: ₹ 34,00,000
+ OPEX (Year 1): ₹ 36,00,000
+ Grand Total (Year 1): ₹ 70,00,000 (₹ 70 Lakhs / ~$84,000 USD)
+ Key Budget Notes & Assumptions
+ Location Tiering: Estimates reflect Tier-2 or suburban Tier-1 cities (e.g., outskirts of Kolkata, Pune, or Ahmedabad) where commercial space rent remains moderate.
+ Ecosystem Revenue Offset: Post-Year 1, OPEX is partially offset by municipal maintenance contracts (e.g., servicing solar streetlights, civic IoT devices) and paid repair fees from commercial clients.
+
