@@ -41,6 +41,7 @@ Interactive Guidance: Workbenches feature visual overhead displays projecting st
 Craft Mentorship: While the AI handles technical documentation and procedural steps, the master technician teaches safety, manual precision, and physical troubleshooting methods that software cannot replicate.
 
 *   **Phase 3: On-Site Community Deployment (The Impact Loop)**
+  
 Once apprentices achieve baseline proficiency in the hub, they step into field operations via Mobile Repair Squads.
 
 **The Paid Track:**
