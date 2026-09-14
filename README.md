@@ -146,7 +146,7 @@ graph TD
 *   **Capital Expenditure (CAPEX) — One-Time Setup Costs**
 
  *   **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup 
-                                  *₹ 6,50,000*
+ *  6,50,000
  *   **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup
                                  *₹ 8,50,000*
  *   **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools₹ 6,00,000
@@ -154,7 +154,7 @@ graph TD
  *   **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area₹ 2,50,000
  *   **Total CAPEX** ₹ 34,00,000 (₹ 34 Lakhs)
  
- *   **Operational Expenditure (OPEX) — Annual (Year 1)**
+  **Operational Expenditure (OPEX) — Annual (Year 1)**
 
  *   **Workshop Rent** ₹40,000/month for 1,500–2,000 sq. ft. industrial/commercial space *₹ 4,80,000*
  *   **Technical Core Staffing** 1 Hub Manager / Tech Lead (@ ₹45,000/mo) + 2 Master Craftsmen / Senior Technicians (@ ₹35,000/mo each) *₹ 13,80,000*
@@ -164,7 +164,7 @@ graph TD
  *   **Maintenance, Insurance & Admin** Machine maintenance, software AI cloud compute APIs, insurance, municipal permits₹ 2,70,000
  *   **Total OPEX (Annual)** ₹ 36,00,000 (₹ 36 Lakhs)
 
- *   **Total Year 1 Budget Per Guild Hub**
+  **Total Year 1 Budget Per Guild Hub**
  
 * CAPEX: ₹ 34,00,000
 * OPEX (Year 1): ₹ 36,00,000
