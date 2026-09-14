@@ -145,14 +145,14 @@ graph TD
  
 *   **Capital Expenditure (CAPEX) — One-Time Setup Costs**
 
- **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup 
+ *   **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup 
                                   *₹ 6,50,000*
- **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup
+ *   **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup
                                  *₹ 8,50,000*
- **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools₹ 6,00,000
- **Fabrication & Prototyping Tools** 2 high-speed FDM 3D printers, 1 SLA resin printer, 1 desktop CNC PCB mill, 1 CO2 laser cutter (for replacement part fabrication)₹ 10,50,000
- **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area₹ 2,50,000
- **Total CAPEX** ₹ 34,00,000 (₹ 34 Lakhs)
+ *   **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools₹ 6,00,000
+ *   **Fabrication & Prototyping Tools** 2 high-speed FDM 3D printers, 1 SLA resin printer, 1 desktop CNC PCB mill, 1 CO2 laser cutter (for replacement part fabrication)₹ 10,50,000
+ *   **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area₹ 2,50,000
+ *   **Total CAPEX** ₹ 34,00,000 (₹ 34 Lakhs)
  
  *   **Operational Expenditure (OPEX) — Annual (Year 1)**
 
@@ -166,10 +166,10 @@ graph TD
 
  *   **Total Year 1 Budget Per Guild Hub**
  
- CAPEX: ₹ 34,00,000
- OPEX (Year 1): ₹ 36,00,000
- Grand Total (Year 1): ₹ 70,00,000 (₹ 70 Lakhs / ~$84,000 USD)
- Key Budget Notes & Assumptions
- Location Tiering: Estimates reflect Tier-2 or suburban Tier-1 cities (e.g., outskirts of Kolkata, Pune, or Ahmedabad) where commercial space rent remains moderate.
- Ecosystem Revenue Offset: Post-Year 1, OPEX is partially offset by municipal maintenance contracts (e.g., servicing solar streetlights, civic IoT devices) and paid repair fees from commercial clients.
+* CAPEX: ₹ 34,00,000
+* OPEX (Year 1): ₹ 36,00,000
+* Grand Total (Year 1): ₹ 70,00,000 (₹ 70 Lakhs / ~$84,000 USD)
+* Key Budget Notes & Assumptions
+* Location Tiering: Estimates reflect Tier-2 or suburban Tier-1 cities (e.g., outskirts of Kolkata, Pune, or Ahmedabad) where commercial space rent remains moderate.
+* Ecosystem Revenue Offset: Post-Year 1, OPEX is partially offset by municipal maintenance contracts (e.g., servicing solar streetlights, civic IoT devices) and paid repair fees from commercial clients.
 
