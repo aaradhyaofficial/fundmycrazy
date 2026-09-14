@@ -156,13 +156,13 @@ graph TD
  
  *   **Operational Expenditure (OPEX) — Annual (Year 1)**
 
- **Workshop Rent** ₹40,000/month for 1,500–2,000 sq. ft. industrial/commercial space *₹ 4,80,000*
- **Technical Core Staffing** 1 Hub Manager / Tech Lead (@ ₹45,000/mo) + 2 Master Craftsmen / Senior Technicians (@ ₹35,000/mo each) *₹ 13,80,000*
- **Apprentice Stipend Pool** Performance-based stipends for 10 vocational apprentices taking on community repair tasks (@ ₹6,000/mo each) ₹ 7,20,000
- **Consumables & Spare Parts** 3D printing filaments, resins, solder, wire, generic ICs, transistors, basic hardware components ₹ 4,50,000
- **Utilities & Connectivity** High-load commercial power bills, high-speed fiber internet, water₹ 3,00,000
- **Maintenance, Insurance & Admin** Machine maintenance, software AI cloud compute APIs, insurance, municipal permits₹ 2,70,000
- **Total OPEX (Annual)** ₹ 36,00,000 (₹ 36 Lakhs)
+ *   **Workshop Rent** ₹40,000/month for 1,500–2,000 sq. ft. industrial/commercial space *₹ 4,80,000*
+ *   **Technical Core Staffing** 1 Hub Manager / Tech Lead (@ ₹45,000/mo) + 2 Master Craftsmen / Senior Technicians (@ ₹35,000/mo each) *₹ 13,80,000*
+ *   **Apprentice Stipend Pool** Performance-based stipends for 10 vocational apprentices taking on community repair tasks (@ ₹6,000/mo each) ₹ 7,20,000
+ *   **Consumables & Spare Parts** 3D printing filaments, resins, solder, wire, generic ICs, transistors, basic hardware components ₹ 4,50,000
+ *   **Utilities & Connectivity** High-load commercial power bills, high-speed fiber internet, water₹ 3,00,000
+ *   **Maintenance, Insurance & Admin** Machine maintenance, software AI cloud compute APIs, insurance, municipal permits₹ 2,70,000
+ *   **Total OPEX (Annual)** ₹ 36,00,000 (₹ 36 Lakhs)
 
  *   **Total Year 1 Budget Per Guild Hub**
  
