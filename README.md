@@ -145,8 +145,10 @@ graph TD
  
 *   **Capital Expenditure (CAPEX) — One-Time Setup Costs**
 
- **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup *₹ 6,50,000*
- **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup₹ 8,50,000
+ **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup 
+                                  *₹ 6,50,000*
+ **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup
+                                 *₹ 8,50,000*
  **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools₹ 6,00,000
  **Fabrication & Prototyping Tools** 2 high-speed FDM 3D printers, 1 SLA resin printer, 1 desktop CNC PCB mill, 1 CO2 laser cutter (for replacement part fabrication)₹ 10,50,000
  **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area₹ 2,50,000
