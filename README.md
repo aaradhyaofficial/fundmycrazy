@@ -149,30 +149,57 @@ graph TD
 
  *   **Facility Security & Deposit** Lease advance (6 months), ESD flooring, high-load electrical wiring, safety fitouts, UPS/power backup 
  
-   Estimated Cost (₹) ₹6,50,000
+     Estimated Cost (₹) ₹6,50,000
    
  *   **AI Diagnostic Workstations** 3 high-spec GPU terminals, thermal cameras, acoustic/vibration sensors, overhead overhead displays, diagnostic software setup
    
      Estimated Cost (₹) 8,50,000
      
- *   **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools₹ 6,00,000
- *   **Fabrication & Prototyping Tools** 2 high-speed FDM 3D printers, 1 SLA resin printer, 1 desktop CNC PCB mill, 1 CO2 laser cutter (for replacement part fabrication)₹ 10,50,000
- *   **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area₹ 2,50,000
+ *   **Electronic Test & Repair Benches** 4 fully equipped ESD workbenches, digital oscilloscopes, soldering/rework stations, multimeters, power supplies, hand tools
+
+     Estimated Cost (₹) ₹ 6,00,000
+     
+ *   **Fabrication & Prototyping Tools** 2 high-speed FDM 3D printers, 1 SLA resin printer, 1 desktop CNC PCB mill, 1 CO2 laser cutter (for replacement part fabrication)
+   
+     Estimated Cost (₹) ₹ 10,50,000
+     
+ *   **Intake & Storage Infrastructure** Inventory shelving, barcode scanners, intake tablets, lockable tool cabinets, customer waiting area
+
+     Estimated Cost (₹) ₹ 2,50,000
+
  *   **Total CAPEX** ₹ 34,00,000 (₹ 34 Lakhs)
  
   **Operational Expenditure (OPEX) — Annual (Year 1)**
 
- *   **Workshop Rent** ₹40,000/month for 1,500–2,000 sq. ft. industrial/commercial space *₹ 4,80,000*
- *   **Technical Core Staffing** 1 Hub Manager / Tech Lead (@ ₹45,000/mo) + 2 Master Craftsmen / Senior Technicians (@ ₹35,000/mo each) *₹ 13,80,000*
- *   **Apprentice Stipend Pool** Performance-based stipends for 10 vocational apprentices taking on community repair tasks (@ ₹6,000/mo each) ₹ 7,20,000
- *   **Consumables & Spare Parts** 3D printing filaments, resins, solder, wire, generic ICs, transistors, basic hardware components ₹ 4,50,000
- *   **Utilities & Connectivity** High-load commercial power bills, high-speed fiber internet, water₹ 3,00,000
- *   **Maintenance, Insurance & Admin** Machine maintenance, software AI cloud compute APIs, insurance, municipal permits₹ 2,70,000
+ *   **Workshop Rent** ₹40,000/month for 1,500–2,000 sq. ft. industrial/commercial space
+
+     Estimated Cost (₹)₹ 4,80,000
+   
+ *   **Technical Core Staffing** 1 Hub Manager / Tech Lead (@ ₹45,000/mo) + 2 Master Craftsmen / Senior Technicians (@ ₹35,000/mo each)
+   
+     Estimated Cost (₹) ₹ 13,80,000
+     
+ *   **Apprentice Stipend Pool** Performance-based stipends for 10 vocational apprentices taking on community repair tasks (@ ₹6,000/mo each)
+   
+     Estimated Cost (₹) ₹ 7,20,000
+     
+ *   **Consumables & Spare Parts** 3D printing filaments, resins, solder, wire, generic ICs, transistors, basic hardware components
+
+     Estimated Cost (₹) ₹ 4,50,000
+
+ *   **Utilities & Connectivity** High-load commercial power bills, high-speed fiber internet, water
+
+     Estimated Cost (₹) ₹ 3,00,000
+
+ *   **Maintenance, Insurance & Admin** Machine maintenance, software AI cloud compute APIs, insurance, municipal permits
+
+     Estimated Cost (₹) ₹ 2,70,000
+     
  *   **Total OPEX (Annual)** ₹ 36,00,000 (₹ 36 Lakhs)
 
   **Total Year 1 Budget Per Guild Hub**
  
-* CAPEX: ₹ 34,00,000
+* CAPEX:  ₹ 34,00,000
 * OPEX (Year 1): ₹ 36,00,000
 * Grand Total (Year 1): ₹ 70,00,000 (₹ 70 Lakhs / ~$84,000 USD)
 * Key Budget Notes & Assumptions
